@@ -1,0 +1,21 @@
+# Ignore node_modules (in case you use npm for additional tools)
+node_modules/
+
+# Ignore build or generated files (if any)
+dist/
+build/
+
+# Logs and debug files
+*.log
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore SASS cache if you use Sass for CSS pre-processing
+.sass-cache/
+
+# Ignore environment files (if any)
+.env
+.env.local
